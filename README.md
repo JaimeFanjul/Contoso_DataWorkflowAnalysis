@@ -1,0 +1,2 @@
+# Contoso_DataWorkflowAnalysis
+This project shows the data processing workflow for a mid size company. From the data collected in stores around the world, we want to know the sales index and customer feedback.  Extracting the data from a data-wharehouse, in this case a postgresql database. NLP techniques to analyse the reviews and get the feedback, and use tableau to elaborate a dashboard representing the analysis.
